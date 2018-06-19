@@ -1,4 +1,4 @@
-# review-syncer
+# review-syncer 💾
 
 ## About
 As a [Shopify](https://www.shopify.com/) app developer, we would like to fetch and store app reviews on a regular interval.
