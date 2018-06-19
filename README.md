@@ -60,5 +60,5 @@ CREATE TABLE `shopify_app_reviews` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 ```
 
-- Have fun! Happy Hacking
+- Have fun! [Happy Hacking](https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12)
 
