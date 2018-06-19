@@ -59,6 +59,8 @@ CREATE TABLE `shopify_app_reviews` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
 ```
+## Bonus Points
+Now that you have this data, do something interesting with it, tell us something useful about our apps or present the data in a special way. How would you gather insight from this?
 
 - Have fun! [Happy Hacking](https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12)
 
